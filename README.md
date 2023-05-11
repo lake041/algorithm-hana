@@ -10,4 +10,4 @@
 
 |05.07|05.08|05.09|05.10|05.11|05.12|05.12|
 |---|---|---|---|---|---|---|
-|X|X|X|X|[적록색약](https://www.acmicpc.net/problem/10026)|||
+|X|X|X|X|[적록색약](https://www.acmicpc.net/problem/10026)|[토마토](https://www.acmicpc.net/problem/7576)|[DSLR](https://www.acmicpc.net/problem/9019)|
