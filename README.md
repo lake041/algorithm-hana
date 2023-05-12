@@ -12,18 +12,6 @@
 |---|---|---|---|---|---|---|
 |X|X|X|X|[적록색약](https://www.acmicpc.net/problem/10026)|[토마토](https://www.acmicpc.net/problem/7576)|[DSLR](https://www.acmicpc.net/problem/9019)|
 
-|05.07|05.08|05.09|05.10|05.11|05.12|05.12|
+|05.13|05.14|05.15|05.16|05.17|05.18|05.19|
 |---|---|---|---|---|---|---|
-|X|X|X|X|[적록색약](https://www.acmicpc.net/problem/10026)|[토마토](https://www.acmicpc.net/problem/7576)|[DSLR](https://www.acmicpc.net/problem/9019)|
-
-|05.07|05.08|05.09|05.10|05.11|05.12|05.12|
-|---|---|---|---|---|---|---|
-|X|X|X|X|[적록색약](https://www.acmicpc.net/problem/10026)|[토마토](https://www.acmicpc.net/problem/7576)|[DSLR](https://www.acmicpc.net/problem/9019)|
-
-|05.07|05.08|05.09|05.10|05.11|05.12|05.12|
-|---|---|---|---|---|---|---|
-|X|X|X|X|[적록색약](https://www.acmicpc.net/problem/10026)|[토마토](https://www.acmicpc.net/problem/7576)|[DSLR](https://www.acmicpc.net/problem/9019)|
-
-|05.07|05.08|05.09|05.10|05.11|05.12|05.12|
-|---|---|---|---|---|---|---|
-|X|X|X|X|[적록색약](https://www.acmicpc.net/problem/10026)|[토마토](https://www.acmicpc.net/problem/7576)|[DSLR](https://www.acmicpc.net/problem/9019)|
+|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[이중우선순위큐](https://www.acmicpc.net/problem/7662)|[거짓말](https://www.acmicpc.net/problem/1043)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[N-Queen](https://www.acmicpc.net/problem/9663)|
