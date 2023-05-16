@@ -12,6 +12,6 @@
 |---|---|---|---|---|---|---|
 |X|X|X|X|[적록색약](https://www.acmicpc.net/problem/10026)|[토마토](https://www.acmicpc.net/problem/7576)|[DSLR](https://www.acmicpc.net/problem/9019)|
 
-|05.15|05.16|05.17|05.18|05.19|05.20|05.21|
+|05.15(월)|05.16(화)|05.17(수)|05.18(목)|05.19(금)|05.20(토)|05.21(일)|
 |---|---|---|---|---|---|---|
 |[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[이중우선순위큐](https://www.acmicpc.net/problem/7662)|[거짓말](https://www.acmicpc.net/problem/1043)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[N-Queen](https://www.acmicpc.net/problem/9663)|
