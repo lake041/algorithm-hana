@@ -10,7 +10,7 @@
 
 |05.08(월)|05.09(화)|05.10(수)|05.11(목)|05.12(금)|05.13(토)|05.14(일)|
 |---|---|---|---|---|---|---|
-|X|X|X|X|[적록색약](https://www.acmicpc.net/problem/10026)|[토마토](https://www.acmicpc.net/problem/7576)|[DSLR](https://www.acmicpc.net/problem/9019)|
+|||||[적록색약](https://www.acmicpc.net/problem/10026)|[토마토](https://www.acmicpc.net/problem/7576)|[DSLR](https://www.acmicpc.net/problem/9019)|
 
 |05.15(월)|05.16(화)|05.17(수)|05.18(목)|05.19(금)|05.20(토)|05.21(일)|
 |---|---|---|---|---|---|---|
