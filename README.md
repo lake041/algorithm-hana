@@ -14,7 +14,7 @@
 
 |05.15(월)|05.16(화)|05.17(수)|05.18(목)|05.19(금)|05.20(토)|05.21(일)|
 |---|---|---|---|---|---|---|
-|[쿼드트리](https://www.acmicpc.net/problem/1992)|[이중우선순위큐](https://www.acmicpc.net/problem/7662)|[거짓말](https://www.acmicpc.net/problem/1043)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[N-Queen](https://www.acmicpc.net/problem/9663)|
+|[쿼드트리](https://www.acmicpc.net/problem/1992)|[이중우선순위큐](https://www.acmicpc.net/problem/7662)|[거짓말](https://www.acmicpc.net/problem/1043)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[N-Queen](https://www.acmicpc.net/problem/9663)|[Z](https://www.acmicpc.net/problem/1074)|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|
 
 |05.22(월)|05.23(화)|05.24(수)|05.25(목)|05.26(금)|05.27(토)|05.28(일)|
 |---|---|---|---|---|---|---|
