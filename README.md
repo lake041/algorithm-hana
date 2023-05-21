@@ -20,4 +20,4 @@
 |---|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lake041)](https://solved.ac/lake041)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alpaca)](https://solved.ac/alpaca)
