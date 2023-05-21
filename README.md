@@ -18,4 +18,4 @@
 
 |05.22(월)|05.23(화)|05.24(수)|05.25(목)|05.26(금)|05.27(토)|05.28(일)|
 |---|---|---|---|---|---|---|
-|-ff|---|---|---|---|---|---|
+|[케빈 베이컨](https://www.acmicpc.net/problem/1389)|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[듣보잡](https://www.acmicpc.net/problem/1764)|[종이의 개수](https://www.acmicpc.net/problem/1780)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[IOIOI](https://www.acmicpc.net/problem/5525)|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|
