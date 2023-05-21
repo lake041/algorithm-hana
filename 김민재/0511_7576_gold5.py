@@ -10,18 +10,18 @@ M, N = map(int, input().split())
 bod = [list(map(int, input().split())) for _ in range(N)]
 q = deque()
 cnt = 0
-rot = 0
+blank = 0
 day = 0
 
-init = []
+# init
 for y in range(N):
     for x in range(M):
         if bod[y][x] == 1:
             cnt += 1
             q.append([y, x])
         if bod[y][x] == -1:
-            rot += 1
-if cnt == N*M-rot:
+            blank += 1
+if cnt == N*M-blank:
     print(day)
     exit()
 
@@ -39,12 +39,12 @@ while q:
                 cnt += 1
                 bod[ny][nx] = 1
                 q.append([ny, nx])
-    if cnt == N*M-rot:
+    if cnt == N*M-blank:
         break
     t = len(q)
     day += 1
 
-if cnt == N*M-rot:
+if cnt == N*M-blank:
     print(day+1)
 else:
     print(-1)
