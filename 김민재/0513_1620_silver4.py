@@ -9,7 +9,7 @@ input = stdin.readline
 N, M = map(int,input().split())
 dicts = defaultdict(int)
 for i in range(1, N+1):
-    name = input().rstrip
+    name = input().rstrip()
     dicts[name] = str(i)
     dicts[str(i)] = name
 
