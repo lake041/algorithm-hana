@@ -18,6 +18,6 @@
 
 
 Greedy
-|05.22(월)|05.23(화)|05.24(수)|05.25(목)|05.26(금)|05.27(토)|05.28(일)|
-|---|---|---|---|---|---|---|
-|[DNA](https://www.acmicpc.net/problem/1969)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[회전하는 큐](https://www.acmicpc.net/problem/1021)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[Contact](https://www.acmicpc.net/problem/1013)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|
+|05.22(월)|05.23(화)|05.24(수)|05.25(목)|05.26(금)|
+|---|---|---|---|---|
+|[DNA](https://www.acmicpc.net/problem/1969)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[Contact](https://www.acmicpc.net/problem/1013)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|
