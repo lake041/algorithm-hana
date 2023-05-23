@@ -9,7 +9,7 @@ input = stdin.readline
 
 N, M = map(int, input().split())
 arrs = [list(map(str, input().rstrip())) for _ in range(N)]
-arrs = list(map(list, zip(*arrs[::-1])))
+arrs = list(map(list, zip(*arrs)))[::-1]
 
 ans1 = ''
 ans2 = 0
