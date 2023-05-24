@@ -27,7 +27,6 @@ for _ in range(T):
             continue
         check[j][i] = 1
         cnt += 1
-        print(j, i, cnt)
         q.append((i, j))
         while q:
             x, y = q.popleft()
@@ -36,5 +35,5 @@ for _ in range(T):
                 nx = x + dx[k]
                 if 0<=nx<=M-1 and 0<=ny<=N-1 and bod[ny][nx]==1 and check[ny][nx]==0:
                     check[ny][nx] = 1
-                    q.append((ny, nx))
+                    q.append((nx, ny))
     print(cnt)
