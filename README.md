@@ -30,4 +30,4 @@
 Greedy
 |05.22(월)|05.23(화)|05.24(수)|05.25(목)|05.26(금)|
 |---|---|---|---|---|
-|[DNA](https://www.acmicpc.net/problem/1969)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[Contact](https://www.acmicpc.net/problem/1013)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|
+|[DNA](https://www.acmicpc.net/problem/1969)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[Contact](https://www.acmicpc.net/problem/1013)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[요격 시스템](https://www.acmicpc.net/problem/1931)
