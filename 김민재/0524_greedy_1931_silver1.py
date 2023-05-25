@@ -11,7 +11,7 @@ arr = []
 for _ in range(N):
     start, end = map(int, input().split())
     arr.append([start, end])
-arr.sort(key = lambda x : (x[1], x[0]))
+arr.sort(key=lambda x: (x[1], x[0]))
 
 ans = 0
 now = 0
