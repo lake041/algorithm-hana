@@ -1,7 +1,22 @@
 # Contact
 # https://www.acmicpc.net/problem/1013
 # greedy
-# [오답] re 안 쓰고 어거지로 푸는 중
+# re 안 쓰고 어거지로 풀다가 포기함
+# 정규표현식 어느 정도까지 공부해야할지 모르겠음
+
+import re
+from sys import stdin
+input = stdin.readline
+
+T = int(input())
+for _ in range(T):
+    string = input().rstrip()
+    regex = re.compile('(100+1+|01)+')
+    checked = regex.fullmatch(string)
+    if checked:
+        print('YES')
+    else:
+        print('NO')
 
 '''
 from sys import stdin
