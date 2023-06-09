@@ -8,7 +8,7 @@
 입금 계좌: 카카오뱅크 3333-08-9795700 예금주 김민재
 
 ```
-차성산 50,000원
+차성산 120,000원
 ```
 
 ---
@@ -32,6 +32,16 @@
 |---|---|---|---|---|
 |[DNA](https://www.acmicpc.net/problem/1969)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[Contact](https://www.acmicpc.net/problem/1013)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|
 
-|05.22(월)|05.23(화)|05.24(수)|05.25(목)|05.26(금)|
+|05.29(월)|05.30(화)|05.31(수)|06.01(목)|06.02(금)|
 |---|---|---|---|---|
-|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|||||
+|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[A → B](https://www.acmicpc.net/problem/16953)|[보석 도둑](https://www.acmicpc.net/problem/1202)|[동전 0](https://www.acmicpc.net/problem/11047)|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|
+
+|06.05(월)|06.06(화)|06.07(수)|06.08(목)|06.09(금)|
+|---|---|---|---|---|
+|-|-|-|-|[신입사원](https://www.acmicpc.net/problem/1946)|
+
+<!-- 
+|06.05(월)|06.06(화)|06.07(수)|06.08(목)|06.09(금)|
+|---|---|---|---|---|
+|[월요일]()|[화요일]()|[수요일]()|[목요일]()|[금요일]()|
+ -->
