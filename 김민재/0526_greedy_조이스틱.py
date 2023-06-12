@@ -28,6 +28,9 @@ def solution(name):
     return answer
 
 
+# 시간초과 반례
+# print(solution('BBBBBBBBBBBBBBBBBBBBBBBBB'))
+
 # 그때 그때 최단거리에 위차한 인덱스로 움직이는 풀이 (오답)
 '''
 def solution(name):
