@@ -40,6 +40,11 @@
 |---|---|---|---|---|
 |-|-|-|-|[신입사원](https://www.acmicpc.net/problem/1946)|
 
+## 구현
+|06.12(월)|06.13(화)|06.14(수)|06.15(목)|06.16(금)|
+|---|---|---|---|---|
+|[뱀](https://www.acmicpc.net/problem/3190)|[치킨배달](https://www.acmicpc.net/problem/15686)|[자리배정](https://www.acmicpc.net/problem/10157)|[이전순열](https://www.acmicpc.net/problem/10973)|[로봇청소기](https://www.acmicpc.net/problem/14503)|
+
 <!-- 
 |06.05(월)|06.06(화)|06.07(수)|06.08(목)|06.09(금)|
 |---|---|---|---|---|
