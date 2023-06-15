@@ -17,7 +17,7 @@ else:
         if arr[i] < arr[target]:
             arr[i], arr[target] = arr[target], arr[i]
             break
-    a = arr[:target + 1] + sorted(arr[target + 1:], reverse=True) #기준이된 target 이후의 수를 다시 오름차순으로 정렬
+    a = arr[:target + 1] + sorted(arr[target + 1:], reverse=True) #기준이된 target 이후의 수를 다시 내림차순으로 정렬
     print(*a)
 
 # 날먹하려다가 메모리 초과
